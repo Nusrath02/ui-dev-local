@@ -1,0 +1,14 @@
+env/
+node_modules/
+*.pyc
+*.log
+__pycache__/
+sites/*/private/*
+sites/*/public/files/*
+sites/*/backups/*
+*.sqlite3
+*.db
+*.DS_Store
+*.swp
+*.swo
+*.pid
